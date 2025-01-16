@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\Final\\Final.csproj": {}
+    "/Users/markova_a/Documents/final/Final/Final.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\Final\\Final.csproj": {
+    "/Users/markova_a/Documents/final/Final/Final.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\Final\\Final.csproj",
+        "projectUniqueName": "/Users/markova_a/Documents/final/Final/Final.csproj",
         "projectName": "Final",
-        "projectPath": "C:\\Users\\User\\Desktop\\Final\\Final.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\Final\\obj\\",
+        "projectPath": "/Users/markova_a/Documents/final/Final/Final.csproj",
+        "packagesPath": "/Users/markova_a/.nuget/packages/",
+        "outputPath": "/Users/markova_a/Documents/final/Final/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/markova_a/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

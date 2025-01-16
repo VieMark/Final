@@ -9,6 +9,7 @@ class Program
         int [] Massiv = {1, 2, 4, 6, 12, 65, 2, -4, -10, 33, -9, 0};
 
         Console.WriteLine($"Задание 1: {Sum(Massiv)}");
+        Console.WriteLine($"Задание 1.1: {Sum_2(Massiv)}");
         Console.WriteLine($"Задание 2: {Max_el(Massiv)}");
         Console.WriteLine($"Задание 3: {Reverse(Massiv)}");
         Console.WriteLine($"Задание 4: {Even_numbers(Massiv)}");
@@ -28,6 +29,15 @@ class Program
         int res = 0;
         res= massiv.Sum();
         return res;
+    }
+    static int Sum_2(int [] massiv)
+    {
+        int sum = 0;
+        foreach (int i in massiv)
+        {
+            sum=sum+i;
+        }
+        return sum ;
     }
 
     static int Max_el(int [] massiv)
